@@ -1,3 +1,5 @@
+**Vagrant Fabric Provisioner is no longer maintained. I'm looking for a new maintainer.**
+
 # Vagrant Fabric Provisioner
 
 This is a [Vagrant](http://www.vagrantup.com) plugin that adds an [Fabric](http://docs.fabfile.org/en/latest/)
